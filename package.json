@@ -1,7 +1,26 @@
 {
   "name": "vue-typescript-jsx-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "keywords": [
+    "vue",
+    "vuejs",
+    "boilerplate",
+    "starter",
+    "spa",
+    "typescript",
+    "jsx"
+  ],
+  "author": "Vu Tran",
+  "license": "MIT",
+  "description": "A boilerplate with Vue + Typescript + JSX template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vutran6853/vue-typescript-jsx-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vutran6853/vue-typescript-jsx-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vutran6853/vue-typescript-jsx-boilerplate#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
