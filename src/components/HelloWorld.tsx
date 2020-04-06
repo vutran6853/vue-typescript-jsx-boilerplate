@@ -1,5 +1,5 @@
-import Vue, { VNode } from 'vue'
-import { Component } from 'vue-property-decorator'
+import Vue, { VNode } from 'vue';
+import { Component } from 'vue-property-decorator';
 
 const HelloWorldProp = Vue.extend({
   props: {

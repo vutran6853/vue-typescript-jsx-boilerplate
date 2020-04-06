@@ -1,6 +1,6 @@
-import Vue, { VNode } from 'vue'
-import './app.css'
-import { Component } from 'vue-property-decorator'
+import Vue, { VNode } from 'vue';
+import { Component } from 'vue-property-decorator';
+import './app.css';
 
 @Component
 class App extends Vue {
